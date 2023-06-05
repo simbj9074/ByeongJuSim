@@ -11,5 +11,6 @@
 <p> 정보처리기사.</p>
 <p> 컴퓨터활용능력 1급.</p>
 
+<h3> Skill </h3>
 > Java, Python, JavaScript, MySQL <br>
 > Spring, JSP, Android, Machine Learning <br>
